@@ -58,7 +58,13 @@ ul {
 .quote {
   max-width: 600px;
 }
+.section-four {
+  margin: 50px;
+}
 .call-to-action {
   background-color: #3882F6;
-
+  border-radius: 5px;
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
 }
