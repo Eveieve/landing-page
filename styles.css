@@ -37,3 +37,8 @@ ul {
   display: flex;
   justify-content: center;
 }
+
+
+.images img {
+  max-width: 230px;
+}
