@@ -31,15 +31,20 @@ ul {
 .container-intro {
   display: flex;
   justify-content: center;
+  gap: 50px;
+  padding: 100px;
   align-items: center;
 }
 .container-main {
   max-width: 450px;
 }
 .main-button {
-  padding: 10px 18px;
+  padding: 7px 25px;
   font-size: 20px;
   background-color: #3882f6;
+  border-radius: 5px;
+  color: white;
+  border: 0;
 }
 .title {
   font-size: 48px;
