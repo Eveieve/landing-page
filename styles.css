@@ -11,9 +11,14 @@ body {
   display: flex;
   justify-content: space-evenly;
 }
+.logo {
+  font-size: 24px;
+  
+}
 .link {
   margin: 0;
   padding: 0;
+  font-size: 18px;
 }
 ul {
   list-style-type: none;
