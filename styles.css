@@ -25,3 +25,7 @@ ul {
   display: flex;
   gap: 15px;
 }
+.container-intro {
+  display: flex;
+  justify-content: center;
+}
