@@ -31,7 +31,7 @@ ul {
 .container-intro {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 100px;
   padding: 100px;
   align-items: center;
 }
@@ -69,6 +69,7 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 40px;
+  padding-bottom: 100px;
 
 }
 .images p {
