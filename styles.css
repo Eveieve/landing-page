@@ -33,3 +33,7 @@ ul {
   font-size: 48px;
   font-weight: bolder;
 }
+.section-two-title {
+  display: flex;
+  justify-content: center;
+}
