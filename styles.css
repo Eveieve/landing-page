@@ -33,12 +33,14 @@ ul {
   font-size: 48px;
   font-weight: bolder;
 }
-.section-two-title {
-  display: flex;
-  justify-content: center;
+
+.images img{
+  max-width: 220px;
 }
 
-
-.images img {
-  max-width: 230px;
+.section-two-title {
+  display: flex;
+}
+.container-images {
+  display: flex;
 }
