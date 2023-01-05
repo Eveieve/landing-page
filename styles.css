@@ -33,6 +33,10 @@ ul {
   justify-content: center;
   padding-top: 100px;
 }
+.container-main {
+  max-width: 450px;
+  
+}
 .title {
   font-size: 48px;
   font-weight: bolder;
