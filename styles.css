@@ -35,12 +35,15 @@ ul {
 }
 
 .images img{
-  max-width: 220px;
+  max-width: 200px;
+  min-height: 200px;
 }
 
 .section-two-title {
   display: flex;
+  justify-content: center;
 }
 .container-images {
   display: flex;
+  justify-content: center;
 }
