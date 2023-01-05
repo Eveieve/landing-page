@@ -55,15 +55,24 @@ ul {
 .images img {
   max-width: 200px;
   min-height: 200px;
+  
 }
 
 .section-two-title {
   display: flex;
   justify-content: center;
+  font-size: 36px;
+  font-weight: bolder;
 }
 .container-images {
   display: flex;
   justify-content: center;
+  align-items: center;
+  gap: 40px;
+
+}
+.images p {
+  max-width: 200px;
 }
 .section-three {
   background-color: #e5e7eb;
