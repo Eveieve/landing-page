@@ -29,12 +29,13 @@ ul {
 .container-intro {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  gap: 80px;
   padding: 100px;
   align-items: center;
 }
 .container-main {
   max-width: 450px;
+  
 }
 .main-button {
   padding: 7px 25px;
