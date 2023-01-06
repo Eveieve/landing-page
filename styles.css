@@ -103,6 +103,7 @@ ul {
   background-color: #3882f6;
   border-radius: 5px;
   display: flex;
+  align-items: center;
   padding: 30px 150px;
   gap: 200px;  
   
@@ -110,6 +111,16 @@ ul {
 #action {
   font-size: 25px;
   margin: 0;
+}
+.action-button {
+  color: white;
+  background-color:#3882f6;
+  border: 2px white solid ;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 10px 40px;
+  font-weight: bold;
+  
 }
 .footer {
   background-color: #1f2937;
