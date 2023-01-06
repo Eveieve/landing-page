@@ -86,10 +86,12 @@ ul {
 }
 .quote {
   max-width: 900px;
+  text-align:start;
 }
 .thor {
   font-size: 30px;
   font-weight: bold;
+  text-align: end;
 }
 .section-four {
   margin: 50px;
