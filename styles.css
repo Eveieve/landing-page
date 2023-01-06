@@ -94,7 +94,7 @@ ul {
 }
 .section-four {
   margin: 100px;
-  display: flex;
+  display: flex;margin: 100px;
   justify-content: center;
   align-items: center;
 }
@@ -103,8 +103,8 @@ ul {
   background-color: #3882f6;
   border-radius: 5px;
   display: flex;
-  padding: 40px 300px;
-  
+  padding: 30px 150px;
+  gap: 200px;  
   
 }
 
