@@ -112,13 +112,14 @@ ul {
   font-size: 25px;
   margin: 0;
 }
-.action-button {
+.action-button { /* How can i make the 'sign up' not wrap to other line*/
   color: white;
   background-color:#3882f6;
   border: 2px white solid ;
   border-radius: 5px;
   font-size: 18px;
-  padding: 10px 40px;
+  padding: 5px 20px;
+ 
   font-weight: bold;
   
 }
