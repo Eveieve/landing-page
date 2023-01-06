@@ -107,7 +107,10 @@ ul {
   gap: 200px;  
   
 }
-
+#action {
+  font-size: 25px;
+  margin: 0;
+}
 .footer {
   background-color: #1f2937;
   padding: 20px;
